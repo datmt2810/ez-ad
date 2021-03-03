@@ -1,0 +1,3 @@
+include ':mupdf-android-master'
+include ':app'
+rootProject.name = "Testnewsource"
